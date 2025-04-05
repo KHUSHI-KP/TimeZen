@@ -10,11 +10,6 @@
 - 🌙 **Theme Toggle**: Switch between Dark and Light modes
 - 🔊 **Sound Toggle**: Enable/disable ticking sound
 - 📅 **Current Date** and day display
-- 💾 **Preferences Saved** using `localStorage`
-
-## 📸 Screenshots
-
-_Add your screenshots here if available_
 
 ## 🛠️ Technologies Used
 
